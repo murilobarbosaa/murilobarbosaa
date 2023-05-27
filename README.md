@@ -1,4 +1,4 @@
-### Olá! Eu sou o Murilo
+### Olá! Eu sou o Murilo 👋
 
 
 - 🔭 Apaixonado por tecnologia
