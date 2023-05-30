@@ -2,7 +2,7 @@
 
 
 - 🔭 Apaixonado por tecnologia
-- 🌱 Estudante de Ciência da Computação 1/8
+- 🌱 Estudante de Ciência da Computação - 1/8
  
 <br>
 <div align="center">
