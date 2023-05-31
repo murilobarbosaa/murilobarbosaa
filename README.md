@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Murilo 👋
 
 - 🔭 Apaixonado por tecnologia
-- 🌱 Estudante de Ciência da Computação - 1/8
+- 🌱 Estudante de Ciência da Computação - 1️⃣/8️⃣
  
 <br>
 <div align="center">
