@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Murilo 👋
 
-- 🔭 Apaixonado por tecnologia
+- 🖥️ Apaixonado por tecnologia
 - 🌱 Estudante de Ciência da Computação - 1️⃣/8️⃣
  
 <br>
