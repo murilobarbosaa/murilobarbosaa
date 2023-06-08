@@ -12,5 +12,3 @@
 <br>
  
  - Meus Repositórios   ⬇️
-
- ![](./profile-3d-contrib/profile-night-rainbow.svg)
