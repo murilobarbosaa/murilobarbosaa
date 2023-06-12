@@ -1,6 +1,5 @@
 ### Olá! Eu sou o Murilo 👋
 
-
 - 🖥️ Apaixonado por programação  😁
 - 🧠 Estudante de Ciência da Computação - 1️⃣/8️⃣
  
@@ -11,7 +10,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilobarbosaa&count_private=false&layout=compact&langs_count=7&theme=transparent"/>
 </div>
 <br>
- 
- 
  
  - Meus Repositórios   ⬇️
