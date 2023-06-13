@@ -11,4 +11,6 @@
 </div>
 <br>
  
+ [![](https://visitcount.itsvg.in/api?id=murilobarbosaa&icon=2&theme=transparent)](https://visitcount.itsvg.in)
+ 
  - Meus Repositórios   ⬇️
