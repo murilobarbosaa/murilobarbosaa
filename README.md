@@ -1,7 +1,7 @@
-### Olá! Eu sou o Murilo 👋
+### Hello! I'm Murilo 👋
 
-- 🖥️ Apaixonado por programação  😁
-- 🧠 Estudante de Ciência da Computação - 1️⃣/8️⃣
+- 🖥️ Passionate about programming 😁
+- 🧠 Computer Science student - 1️⃣/8️⃣
  
 <br>
 <div align="center">
@@ -11,4 +11,4 @@
 </div>
 <br>
  
- - Meus Repositórios   ⬇️
+ - My Repositories   ⬇️
