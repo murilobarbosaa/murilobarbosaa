@@ -16,4 +16,5 @@
  - C#
  - Python
  
+ <br> <br>
  <img align="center" style="width:-webkit-fill-available" src="https://streak-stats.demolab.com/?user=murilobarbosaa&theme=transparent&mode=weekly&card_width=1024"/>
