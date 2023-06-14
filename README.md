@@ -16,15 +16,11 @@
     <td style="border:none;"><a target="_blank" href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=murilobarbosaa&include_all_commits=true&count_private=true&show_icons=true&theme=react&text_color=8b8b8b&bg_color=0000&hide_border=true&custom_title=murilobarbosaa%27s%20Github%20Stats" alt="My Stats"/></a></td>
     <td style="border:none;"><a target="_blank" href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=murilobarbosaa&theme=react&dates=8b8b8b&background=0000&hide_border=true" alt="My Streak"/></a></td>
   </tr>
-</table>
-  
-<br>
+</table> <br>
   
 <p align="center" >
   <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilobarbosaa&include_all_commits=true&count_private=true&show_icons=true&theme=react&text_color=8b8b8b&bg_color=0000&hide_border=false&"/></a>
-</p>
- 
-<br>
+</p> <br>
  
 <hr>
  
