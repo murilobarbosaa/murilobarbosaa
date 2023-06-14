@@ -27,20 +27,6 @@
 <br>
  
 <hr>
-
-<a href="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake-dark.svg" 
-    alt"Check out my commit history!" />
-</a>
-
-<p align="center">
-  <a href="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg" 
-      alt"Check out my commit history!" />
-  </a>
-</p>
-
-<hr>
  
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=600&center=true&width=435&lines=This+page+is+best+viewed+in+dark+mode.;Hope+you+enjoy!" alt="Typing SVG" /></a>
