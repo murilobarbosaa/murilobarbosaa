@@ -11,4 +11,6 @@
 </div>
 <br>
  
+ <img align="center" style="width:-webkit-fill-available" src="https://streak-stats.demolab.com/?user=murilobarbosaa&theme=transparent&mode=weekly&card_width=1024&background=60%2CEF8B59%2CB53BC4&border=FFFFFF&stroke=FFFFFF&fire=FFD943"/>
+ 
  - My Repositories   ⬇️
