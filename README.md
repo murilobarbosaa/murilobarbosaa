@@ -1,4 +1,4 @@
-### Hello! I'm Murilo 👋
+## Hello! I'm Murilo 👋
 
 - 🖥️ Passionate about programming 😁
 - 🧠 Computer Science student - 1️⃣/8️⃣
@@ -11,6 +11,9 @@
 </div>
 <br>
  
- <img align="center" style="width:-webkit-fill-available" src="https://streak-stats.demolab.com/?user=murilobarbosaa&theme=transparent&mode=weekly&card_width=1024"/>
+ ## Currently Learning ⬇️
+ - Java
+ - C#
+ - Python
  
- - My Repositories   ⬇️
+ <img align="center" style="width:-webkit-fill-available" src="https://streak-stats.demolab.com/?user=murilobarbosaa&theme=transparent&mode=weekly&card_width=1024"/>
