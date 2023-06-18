@@ -30,5 +30,3 @@
 <p align="center">
    ...   
 </p>
-
-
