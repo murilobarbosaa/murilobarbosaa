@@ -4,7 +4,7 @@
 </h1>
 
 - 🖥️ Passionate about programming and learning about it 😁
-- 🧠 Computer Science student - 1️⃣/8️⃣
+- 🧠 Computer Science student - 2️⃣/8️⃣
 - 👀 Looking for a job...
 - 📫 How to reach me: <a target="_blank" href="mailto: murilobarbosa2811@gmail.com">murilobarbosa2811@gmail.com</a>
 
