@@ -9,7 +9,7 @@
 - 📫 How to reach me: <a target="_blank" href="mailto: murilobarbosa2811@gmail.com">murilobarbosa2811@gmail.com</a>
 - 📠 Linkedin: https://www.linkedin.com/in/murilo-barbosa-cardoso-108b32261/
 
-<h2 align="center">⚡ Stats ⚡</h2> <br>
+<h2 align="center">⚡ StatS ⚡</h2> <br>
 
 <table style="border:none;margin:0 auto">
    <tr style="border:none;">
