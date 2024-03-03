@@ -25,5 +25,5 @@
 <hr>
  
 <p align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=600&center=true&width=435&lines=This+page+is+best+viewed+in+dark+mode.;Hope+you+enjoy!;...+🧊+..." alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=600&center=true&width=435&lines=This+page+is+best+viewed+in+dark+mode.;Hope+you+enjoy!;...+💻+..." alt="Typing SVG" /></a>
 </p> <br> <br>
