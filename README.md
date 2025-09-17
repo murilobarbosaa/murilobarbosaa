@@ -7,7 +7,7 @@
 - 🧠 Computer Science student - 6️⃣/8️⃣
 - ⚙️ Full-Stack Engineer and AI Agent Expert 🤖
 - 📫 How to reach me: <a target="_blank" href="mailto: murilobarbosa2811@gmail.com">murilobarbosa2811@gmail.com</a>
-- 📠 Linkedin: [https://www.linkedin.com/in/murilo-barbosa-cardoso-108b32261/](https://www.linkedin.com/in/murilocardoso-dev/)
+- 📠 Linkedin: [https://www.linkedin.com/in/murilocardoso-dev/]
 
 <h2 align="center">⚡ StatS ⚡</h2> <br>
 
