@@ -16,7 +16,7 @@
   </li>
   <li>
     <img src="https://api.iconify.design/lucide:settings.svg?color=white" width="18" alt="Settings" />
-    &nbsp;Full-Stack Engineer and
+    &nbsp;Full-Stack Engineer and 
     <img src="https://api.iconify.design/lucide:cpu.svg?color=white" width="18" alt="AI" />
     &nbsp;AI Agent Expert
   </li>
