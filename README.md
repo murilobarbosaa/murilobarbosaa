@@ -12,7 +12,7 @@
   </li>
   <li>
     <img src="https://api.iconify.design/lucide:brain.svg?color=white" width="18" alt="Brain" />
-    &nbsp;Computer Science student — 7/8
+    &nbsp;Computer Science student — 8/8
   </li>
   <li>
     <img src="https://api.iconify.design/lucide:settings.svg?color=white" width="18" alt="Settings" />
