@@ -20,7 +20,7 @@
 
 - **AI Engineer at SinergyRH** (remote, since Mar 2026): lead developer of **Syni**, a conversational AI agent for HR and payroll that runs in production.
 - **CTO & Co-founder at [Bora na Tech](https://boranatech.com.br)** (since May 2026): a Brazilian career platform for people getting into tech. I own all of engineering: React 19 and TypeScript front end, Express API, Supabase (Postgres and auth), subscription billing, and deploys on Vercel and Railway.
-- **[Connecta+](https://app.connectaplus.com.br)**: designed and built solo, from front end and database to deploy and AI features (Next.js, TypeScript).
+- **[Connecta+](https://app.connectaplus.com.br)** (sole engineer): I built the entire codebase, from front end and back end to database, deployment and AI features (Next.js, TypeScript).
 
 ## Before that
 
@@ -40,8 +40,8 @@
 ## Education & credentials
 
 - B.Sc. in Computer Science, UniCEUB (expected Dec 2026)
-- AWS Student Builder Campus Leader 2026.2, representing UniCEUB
-- CS50, Harvard University · AWS Academy Graduate: Cloud Foundations
+- CS50, Harvard University
+- AWS Academy Graduate: Cloud Foundations
 
 ## Let's talk
 
