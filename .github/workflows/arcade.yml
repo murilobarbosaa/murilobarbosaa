@@ -12,11 +12,47 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
-      - name: generate arcade svgs
+      - name: generate pacman
         uses: abozanona/pacman-contribution-graph@main
+        continue-on-error: true
         with:
           github_user_name: ${{ github.repository_owner }}
-          games: "pacman,breakout,galaga,puzzle-bobble,bomberman,minesweeper"
+          games: "pacman"
+
+      - name: generate breakout
+        uses: abozanona/pacman-contribution-graph@main
+        continue-on-error: true
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: "breakout"
+
+      - name: generate galaga
+        uses: abozanona/pacman-contribution-graph@main
+        continue-on-error: true
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: "galaga"
+
+      - name: generate puzzle bobble
+        uses: abozanona/pacman-contribution-graph@main
+        continue-on-error: true
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: "puzzle-bobble"
+
+      - name: generate bomberman
+        uses: abozanona/pacman-contribution-graph@main
+        continue-on-error: true
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: "bomberman"
+
+      - name: generate minesweeper
+        uses: abozanona/pacman-contribution-graph@main
+        continue-on-error: true
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: "minesweeper"
 
       - name: push arcade svgs to the output-arcade branch
         uses: crazy-max/ghaction-github-pages@v4
