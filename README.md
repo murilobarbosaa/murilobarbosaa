@@ -45,6 +45,8 @@
 
 ## Let's talk
 
+Hiring for an AI engineering or full-stack role? I can start right away and I'm happy to meet in US or European hours. Reach me at **murilobarbosa2811@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/murilocardoso-dev/).
+
 <br />
 
 <picture>
@@ -52,5 +54,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/murilobarbosaa/murilobarbosaa/output/github-snake.svg" />
   <img alt="Snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/murilobarbosaa/murilobarbosaa/output/github-snake.svg" />
 </picture>
-
-Hiring for an AI engineering or full-stack role? I can start right away and I'm happy to meet in US or European hours. Reach me at **murilobarbosa2811@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/murilocardoso-dev/).
