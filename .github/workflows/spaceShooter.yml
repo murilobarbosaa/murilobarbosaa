@@ -1,0 +1,32 @@
+name: generate space shooter
+
+on:
+  schedule:
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: create output folder
+        run: mkdir -p dist
+
+      - name: generate space shooter gif
+        uses: czl9707/gh-space-shooter@v2
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          output-path: dist/space-shooter.gif
+          strategy: random
+          no-commit: "true"
+
+      - name: push gif to the output-space-shooter branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output-space-shooter
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
