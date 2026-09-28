@@ -1,0 +1,31 @@
+name: generate maeul village
+
+on:
+  schedule:
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: create output folder
+        run: mkdir -p dist
+
+      - name: generate village svgs
+        uses: t1seo/maeul-in-the-sky@v2.1.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          hemisphere: south
+          output_dir: dist
+
+      - name: push svgs to the output-maeul branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output-maeul
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
