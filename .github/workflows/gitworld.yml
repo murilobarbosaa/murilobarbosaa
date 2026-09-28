@@ -1,0 +1,28 @@
+name: generate gitworld
+
+on:
+  schedule:
+    - cron: "15 1 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: generate gitworld svg
+        uses: Dasmat13/git-world-action@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          svg_out_path: dist/gitworld.svg
+
+      - name: push svg to the output-gitworld branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output-gitworld
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
