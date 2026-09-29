@@ -12,16 +12,19 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
-      - name: create output folder
-        run: mkdir -p dist
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: install gh-space-shooter
+        run: pip install gh-space-shooter
 
       - name: generate space shooter gif
-        uses: czl9707/gh-space-shooter@v2
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          output-path: dist/space-shooter.gif
-          strategy: random
-          no-commit: "true"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir -p dist
+          gh-space-shooter "${{ github.repository_owner }}" --output dist/space-shooter.gif --strategy random --fps 25
 
       - name: push gif to the output-space-shooter branch
         uses: crazy-max/ghaction-github-pages@v4
